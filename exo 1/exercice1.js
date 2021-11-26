@@ -1,7 +1,8 @@
 let prenoms = ["pierre","paul","jacques"];
-let x = ;
+let x = ["chien","chat","lapin"];
 
-document.getElementById('viewport'). = ;
+document.getElementById('viewport').innerText = x;
+
 
 
 
